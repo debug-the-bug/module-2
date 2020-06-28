@@ -3,13 +3,11 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
-	color: #000000;
+	font-family: Times New Roman;
 	text-align: center;
 }
 
 body {
-	background-image: url("background.jpg");
 	background-color: #FEF5CA;
 
 }
