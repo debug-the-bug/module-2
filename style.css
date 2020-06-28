@@ -23,7 +23,7 @@ body{
 }
 
 .item{
-  position: relative;
+  float: right;
   background-color:#999999;
   margin: 15px;
   padding: 25px;
